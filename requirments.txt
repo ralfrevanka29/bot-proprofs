@@ -1,0 +1,5 @@
+bardapi==0.1.27
+keyboard==0.13.5
+selenium==4.10.0
+win10toast==0.9
+
